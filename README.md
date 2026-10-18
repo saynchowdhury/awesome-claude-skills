@@ -117,6 +117,7 @@
 - [manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus) - Delegate complex tasks to Manus AI agent for deep research, market analysis, product comparisons, stock analysis, and comprehensive report generation with parallel processing.
 - [paper-search](https://github.com/ykdojo/paper-search) - Search academic papers via OpenAlex (250M+ works, free, no API key needed). Find papers by keyword, look up details by DOI, with sorting and pagination.
 - [Junshi](https://github.com/junshi-research/research-junshi) - Personalized research strategist for Claude Code that reads your papers, tracks relevant literature, and proposes ranked research ideas with suggested first experiments. 
+- [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) - 280+ skills for academic writing, journal formatting, PRISMA systematic reviews, citation verification against Crossref and OpenAlex, and scientific data analysis.
 
 
 ## ✍️ Writing & Research
